@@ -1,0 +1,19 @@
+name: RankManager
+main: me.sergivb01.rankmanager.RankManager
+author: sergivb01
+description: Veil Network rank managment plugin
+version: 1.6
+
+commands:
+    setrank:
+        description: Sets a player's global rank.
+        permission: core.setrank
+    ranks:
+        description: List of ranks
+        permission: core.ranks
+    corerl:
+        description: Reloads the plugin
+        permission: core.reload
+    ping:
+        aliases: [p]
+        permission: core.ping

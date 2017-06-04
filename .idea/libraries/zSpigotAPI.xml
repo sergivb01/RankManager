@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="zSpigotAPI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../depends/zSpigotAPI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../depends/zSpigotAPI.jar!/" />
+    </SOURCES>
+  </library>
+</component>
