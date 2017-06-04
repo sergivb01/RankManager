@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="RankManager:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/RankManager_jar</output-path>
-    <root id="archive" name="RankManager.jar">
-      <element id="module-output" name="RankManager" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/../JARs/jdom-2.0.6.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>
